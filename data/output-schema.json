@@ -1,0 +1,1 @@
+{"fields":{"summary":"string","decisions":"array","action_items":"array","risks":"array","follow_up_message":"string"},"action_item_schema":{"task":"string","owner":"string","deadline":"string"}}
